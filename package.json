@@ -1,0 +1,25 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esh49961/NuProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Esh49961/NuProject/issues"
+  },
+  "homepage": "https://github.com/Esh49961/NuProject#readme",
+  "description": ""
+}
